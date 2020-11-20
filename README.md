@@ -15,7 +15,6 @@ $ pip install -r requirements.txt
 Python modules:
 * djnago3.0
 * djangorestframework3.12.2
-* psycopg22.8.6
 	
 ## Get involved!
 clone the project from repository
