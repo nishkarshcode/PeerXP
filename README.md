@@ -6,7 +6,7 @@ This is only for the test Purpose
 First create a virtual Environment in you system and install and the dependancy
 
 ```sh
-$ python -m venv MyPizza
+$ python -m venv MyPeer
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
