@@ -19,5 +19,5 @@ Python modules:
 	
 ## Get involved!
 clone the project from repository
-* `git clone git@github.com:nishkarshcode/PizzaApp.git`
+* `git clone https://github.com/nishkarshcode/PeerXP.git`
 
