@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #Custom Apps
     'account',
     'main',
+    'ticket',
 ]
 
 AUTH_USER_MODEL = 'account.UserProfile'
